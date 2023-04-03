@@ -53,10 +53,7 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v1
-      - name: Get Theme
-        run: git submodule update --init --recursive
-      - name: Update theme to Latest commit
-        run: git submodule update --remote --merge
+
       - name: Build with Hugo
         run: |
           hugo \
@@ -66,6 +63,8 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+
+
   # Deployment job
   deploy:
     environment:
