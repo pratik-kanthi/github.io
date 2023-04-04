@@ -1,12 +1,12 @@
 baseURL: https://pratik-kanthi.github.io
 languageCode: en-us
-title: Pratik Kanthi
+title: pratik kanthi
 theme: PaperMod
 params:
     defaultTheme: dark
     homeInfoParams:
-        Title:  Hi, there
-        Content: Hi, this is Pratik. These posts are essentially learning notes. 
+        Title:  Welcome to this blog
+        Content: Hi, this is Pratik.
     socialIcons:
       - name: "twitter"
         title: "<custom title>"
@@ -36,7 +36,7 @@ languages:
           - name: Tags
             url: tags/
             weight: 10
-          - name: WiKi
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-          - name: Discord
-            url: https://discord.gg/ahpmTvhVmp
+          - name: Experiments
+            url: experiments/
+            weight: 1
+        
