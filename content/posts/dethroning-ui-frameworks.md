@@ -1,8 +1,7 @@
 ---
 author: "Pratik Kanthi"
-title: "Framework Opinions"
+title: "Dethroning UI Frameworks"
 date: "2023-08-29"
-description: "Dethroning UI Frameworks"
 ShowBreadCrumbs: false
 ---
 
