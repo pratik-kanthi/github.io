@@ -4,9 +4,6 @@ title: "Dethroning UI Frameworks"
 date: "2023-08-29"
 ShowBreadCrumbs: false
 ---
-
-# Dethroning Frontend Frameworks
-
 If you've been coding for the past decade, you can't deny that software has continually evolved. Thanks in part to Moore's Law, both our computational power and the complexity of software have surged. The developer experience hasn't been left behind, either.
 
 Remember the days when we were stuck manually wiring up DOM events to HTML elements, hoping for a miracle in the form of a smoothly running web app? Ah, the nostalgia of typing `getElementById` with the precision of a concert pianist. Then came jQuery—our knight in shining armour. It was sleek, powerful, and reigned supreme for years in the web world.
