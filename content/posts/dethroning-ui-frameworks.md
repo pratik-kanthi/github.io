@@ -1,10 +1,8 @@
 ---
-author: "Hugo Authors"
+author: "Pratik Kanthi"
 title: "Framework Opinions"
-date: "2020-03-05"
-description: "Framework Opinions"
-tags: ["emoji"]
-ShowToc: false
+date: "2023-08-29"
+description: "Dethroning UI Frameworks"
 ShowBreadCrumbs: false
 ---
 
