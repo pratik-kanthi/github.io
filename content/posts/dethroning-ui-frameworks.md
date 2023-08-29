@@ -37,7 +37,9 @@ I wish I could cut out the mindless chatter about the next exciting JS project f
 ### Have we lost the plot?
 The never-ending loop of learning, adopting, and moving on to the next big thing feels eerily similar to the myth of Sisyphus, who was doomed to push a boulder up a hill only for it to roll back down, forcing him to repeat the process endlessly. The promise of a "final solution" to all frontend woes is always just over the horizon, never truly arriving.
 
-![[https://ibb.co/ZSkCLRw]]
+![sisyphus](https://github.com/pratik-kanthi/pratik-kanthi.github.io/assets/72133979/7ace205b-728b-4075-9bfc-f56e0e02796f)
+
+
 
 Albert Camus found some respite as he concluded "One must imagine Sisyphus happy" alluding to the idea that Sisyphus found happiness in the task of pushing the boulder up instead of the meaning of it.
 
